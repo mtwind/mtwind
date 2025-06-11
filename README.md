@@ -2,8 +2,6 @@
 
 My name is Matthew Wind and I am an aspiring software developer graduating from Purdue University in 2026.
 
-I am proficient in various languages and hope to gain more experience through full stack development before entering the industry full time.
-
 I am particularly interested in the finance industry and algorithmic trading as I enjoy a fast paced environment. 
 
 Outside of SWE, here are some things I enjoy:
@@ -13,6 +11,8 @@ Outside of SWE, here are some things I enjoy:
 - Hiking
 - Poker and other card games
 - Board games
+
+Learn more about me at matthewwind.site!
 
 Feel free to reach out to me anytime @ mtwind2003@gmail.com or https://www.linkedin.com/in/matthewtwind/
 <!--
