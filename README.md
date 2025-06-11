@@ -12,7 +12,7 @@ Outside of SWE, here are some things I enjoy:
 - Poker and other card games
 - Board games
 
-Learn more about me at matthewwind.site!
+Learn more about me at [matthewwind.site](https://www.matthewwind.site/)!
 
 Feel free to reach out to me anytime @ mtwind2003@gmail.com or https://www.linkedin.com/in/matthewtwind/
 <!--
